@@ -131,16 +131,16 @@
     <value>..\images\paste_plain.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="acknowledgements" xml:space="preserve">
-    <value />
+    <value>• Uses icons from the Silk iconset by famfamfam: http://www.famfamfam.com/lab/icons/silk/</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>v0.0.0.1: First public release
-v0.0.0.2: Added external IP/Hostname</value>
+    <value>• v0.0.0.1: First public release
+• v0.0.0.2: Added external IP/Hostname</value>
   </data>
   <data name="notes" xml:space="preserve">
-    <value>•In the hostname field you can enter the hostname of any windows (XP+) machine for which you have administrative access and the application will try to retrieve the network information.
+    <value>• In the hostname field you can enter the hostname of any windows (XP+) machine for which you have administrative access and the application will try to retrieve the network information.
 
-•If the “Save to file” option is checked, a file containing the extracted information will be created in the application’s folder. Use the “Open folder” button to go there.</value>
+• If the “Save to file” option is checked, a file containing the extracted information will be created in the application’s folder. Use the “Open folder” button to go there.</value>
   </data>
   <data name="folder_star" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\images\folder_star.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
